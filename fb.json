@@ -1,0 +1,10 @@
+{
+  "links": {
+    "advertiseCenter": "http://43.155.181.99/#/entry?route=advertiseCenter&",
+    "planManagement": "http://43.155.181.99/#/entry?route=planManagement&",
+    "fbtab_text": "http://43.155.181.99/open_api/tab_text",
+    "fb_crash_url": "http://43.155.181.99/open_api/crash_log",
+    "ico_uri1": "https://ceshi.tiktokimgoss.com/icon/1.png",
+    "ico_uri2": "https://ceshi.tiktokimgoss.com/icon/2.png"
+  }
+}
